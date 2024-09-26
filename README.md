@@ -1,21 +1,12 @@
-
 <h1 align="center">Hola, I'm Faysal Mahmud</h1>
 
 <h3 align="center">Dodging the AI axe. On the hunt for my next motivational surge.</h3>
 
-  
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faysal-star&label=Profile%20views&color=0e75b6&style=flat" alt="faysal-star" /> </p>
 
-  
-
 - 🌱 I'm currently learning Next.js, Deep Learning & Computer Vision
-
 - 👨‍💻 Visit my Portfolio [masked314.xyz](masked314.xyz)
-
 - 💬 Ask me about JS, TS, React, Android-Web Dev
-
-  
 
 <h3 align="left">Connect with me:</h3>
 
@@ -61,6 +52,8 @@
 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=faysal-star&show_icons=true&locale=en&layout=compact" alt="faysal-star" /></p>
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=faysal-star&show_icons=true&locale=en" alt="faysal-star" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=faysal-star&" alt="faysal-star" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=faysal-star&show_icons=true&locale=en&layout=compact" alt="faysal-star" /></p>
+<br/>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=faysal-star&show_icons=true&locale=en" alt="faysal-star" /></p>
+<br/>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=faysal-star&" alt="faysal-star" /></p>
