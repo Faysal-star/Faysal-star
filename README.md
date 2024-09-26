@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faysal-star&label=Profile%20views&color=0e75b6&style=flat" alt="faysal-star" /> </p>
 
 - 🌱 I'm currently learning Next.js, Deep Learning & Computer Vision
-- 👨‍💻 Visit my Portfolio [masked314.xyz](masked314.xyz)
+- 👨‍💻 Visit my Portfolio [masked314.xyz](https://masked314.xyz)
 - 💬 Ask me about JS, TS, React, Android-Web Dev
 
 <h3 align="left">Connect with me:</h3>
