@@ -3,6 +3,7 @@
 <h3 align="center">Dodging the AI axe. On the hunt for my next motivational surge.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faysal-star&label=Profile%20views&color=0e75b6&style=flat" alt="faysal-star" /> </p>
+![](https://hit.yhype.me/github/profile?user_id=61388557)
 
 - 🌱 I'm currently learning Next.js, Deep Learning & Computer Vision
 - 👨‍💻 Visit my Portfolio [masked314.xyz](https://masked314.xyz)
