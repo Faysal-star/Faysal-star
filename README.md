@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faysal-star&label=Profile%20views&color=0e75b6&style=flat" alt="faysal-star" /> </p>
 
-[](https://hit.yhype.me/github/profile?user_id=61388557)
-
 - 🌱 I'm currently learning Next.js, Deep Learning & Computer Vision
 - 👨‍💻 Visit my Portfolio [masked314.xyz](https://masked314.xyz)
 - 💬 Ask me about JS, TS, React, Android-Web Dev
@@ -59,3 +57,6 @@
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=faysal-star&show_icons=true&locale=en" alt="faysal-star" /></p>
 <br/>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=faysal-star&" alt="faysal-star" /></p>
+
+
+![](https://hit.yhype.me/github/profile?user_id=61388557)
