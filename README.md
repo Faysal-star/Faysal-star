@@ -1,13 +1,22 @@
 
 <h1 align="center">Hola, I'm Faysal Mahmud</h1>
 
-<h3 align="center">Dodging the AI axe. On the hunt for my next motivational surge.</h3>
+<h3 align="center">CSE @ KUET. I build agent tooling, and the harnesses that catch it when it goes wrong.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faysal-star&label=Profile%20views&color=0e75b6&style=flat" alt="faysal-star" /> </p>
 
-- 🌱 I'm currently learning Next.js, Deep Learning & Computer Vision
+- 🔭 Currently building agent tooling — MCP servers, Claude Code skills, and the test harnesses around them
+- 🌱 Learning Rust, and more about production LLM systems
 - 👨‍💻 Visit my Portfolio [faysal.is-a.dev](https://faysal.is-a.dev/).
-- 💬 Ask me about JS, TS, React, Android-Web Dev
+- 💬 Ask me about MCP, agentic workflows, RAG, computer vision, or competitive programming
+
+<h3 align="left">Featured</h3>
+
+- [**ZenLearn**](https://github.com/Faysal-star/ZenLearn) — AI learning platform with a hybrid RAG engine. Champion, AI & API Hackathon, BUET CSE Fest 2026.
+- [**SynapseED**](https://github.com/Faysal-star/synapseEd) — multi-provider LangGraph agent workflows. Finalist, BRACU AI Hackathon 2025.
+- [**DrawGL**](https://github.com/Faysal-star/DrawGL) — browser drawing tool that exports shapes as ready-to-use OpenGL C++ headers, with interleaved vertex data and VAO/VBO setup.
+- [**PhotonChat**](https://github.com/Faysal-star/PhotonChat_omnet) — P2P messaging over the BB84 quantum key distribution protocol, simulated in OMNeT++ with QBER-based eavesdropping detection.
+- [**codeforces-mcp**](https://github.com/Faysal-star/codeforces-mcp) — MCP server exposing Codeforces data to coding agents. Spec-first, with a three-layer verification harness.
 
 <h3 align="left">Connect with me:</h3>
 
@@ -18,7 +27,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <h4 align="left"> Programming Languages </h4>
 <p align="left"> 
- <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a><a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
+ <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a><a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="rust" width="40" height="40"/> </a> 
 </p>
 <h4 align="left"> Frontend Development</h4>
 <p align="left">  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
@@ -53,11 +62,11 @@
 
 </p>
 <br/>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=faysal-star&show_icons=true&locale=en&hide_border=true&theme=tokyonight" alt="faysal-star" /></p>
+<!-- <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=faysal-star&show_icons=true&locale=en&hide_border=true&theme=tokyonight" alt="faysal-star" /></p> -->
 <br/>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=faysal-star&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="faysal-star" /></p>
 <br/>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faysal-star&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="faysal-star" /></p>
+<!-- <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faysal-star&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="faysal-star" /></p> -->
 
 
 ![](https://hit.yhype.me/github/profile?user_id=61388557)
